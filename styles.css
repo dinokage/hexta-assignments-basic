@@ -1,0 +1,29 @@
+
+#rao{
+    
+    text-align: center;
+    color: green;
+    
+}
+
+#num{
+    text-align: center;
+    color: red;
+}
+
+#email{
+    text-align: center;
+    color: blue;
+
+}
+.main{
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 50px;
+    border: 1px solid gray;
+
+}
+
+.div1{
+    margin: 20px;
+}
