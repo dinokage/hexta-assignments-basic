@@ -1,21 +1,27 @@
 
-
+.header{
+    background-color: green;
+    padding: 10px;
+    
+}
 
 
 .main{
     margin-left: 180px;
     margin-right: 180px;
     margin-top: 50px;
+    border: 1px solid rgb(24, 127, 168);
     
 }
 
 .one{
     text-align: center;
+    
 
 }
 
 #name{
-    color: green;
+    color: white;
 }
 
 .anchor{
@@ -28,7 +34,15 @@
 
 
 
+.content{
+    margin: 8px;
+}
 
+.footer{
+    background-color: green;
+    text-align: center;
+    padding: 10px;
+}
 
 
 
