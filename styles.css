@@ -1,0 +1,97 @@
+
+  body {
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  .resumeContainer {
+   
+    max-width: 1000px;
+    margin: auto;
+    background: #fff;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    flex-wrap: wrap;
+  }
+  
+  .leftside {
+    background-color: #2b2d42;
+    color: white;
+    padding: 30px;
+    flex: 1 1 300px;
+    text-align: center;
+  }
+  
+  .profilepic {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .leftside h1 {
+    font-size: 26px;
+  }
+  
+  .leftside h3 {
+    font-weight: normal;
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #d3d3d3;
+  }
+  
+  .contact {
+    font-size: 14px;
+    margin-top: 20px;
+    line-height: 1.6;
+  }
+  
+  .rightside {
+    padding: 30px;
+    flex: 2 1 600px;
+  }
+  
+  section {
+    margin-bottom: 25px;
+  }
+  
+  section h2 {
+    border-bottom: 2px solid #2b2d42;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    color: #2b2d42;
+  }
+  
+  section ul {
+    list-style: none;
+    padding-left: 10px;
+  }
+  
+  section ul li {
+    margin-bottom: 10px;
+  }
+  
+  .skill {
+    margin-bottom: 15px;
+  }
+  
+  .skill label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .bar {
+    background: #e0e0e0;
+    height: 8px;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .bar div {
+    height: 100%;
+    background: #2b2d42;
+  }
+  
