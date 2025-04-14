@@ -1,0 +1,53 @@
+
+.header{
+    background-color: olivedrab;
+    padding: 10px;
+    
+}
+
+
+.main{
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-top: 50px;
+    border: 1px solid rgb(24, 127, 168);
+    
+}
+
+.one{
+    text-align: center;
+    
+
+}
+
+#name{
+    color: white;
+}
+
+.anchor{
+    color: rgb(180, 120, 7);
+}
+
+
+
+
+
+
+
+.content{
+    margin: 8px;
+}
+
+.footer{
+    background-color: olivedrab;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+
+.study{
+    display: flex;
+    justify-content: space-between;
+}
