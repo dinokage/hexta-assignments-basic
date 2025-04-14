@@ -1,6 +1,6 @@
 # 🧑‍💻 GitHub Submission Instructions
 
-Follow these steps to **clone the repository**, **create your own branch**, **make changes**, and **push it to GitHub**.
+Follow these steps to **fork the repository**, **clone the repository**, **create your own branch**, **make changes**, and **push it to GitHub**.
 
 ---
 
@@ -13,12 +13,14 @@ Make sure you have:
 
 ---
 
-## 📥 1. Clone the Repository
+## 📥 1. Fork and Clone the Repository
+
+Click on the fork button in top right corner
 
 Open a terminal and run:
 
 ```bash
-git clone https://github.com/dinokage/hexta-assignments-basic.git
+git clone https://github.com/<your-username>/hexta-assignments-basic.git
 ```
 
 Navigate into the project folder:
