@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Inter', sans-serif;
+    background: #f8f9fa;
+    color: #333;
+    padding: 40px;
+    line-height: 1.6;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    font-weight: 800;
+    color: #222;
+  }
+  
+  .contact {
+    margin: 10px 0 20px;
+    font-size: 0.95em;
+  }
+  
+  .contact a {
+    color: #0077b5;
+    text-decoration: none;
+  }
+  
+  section {
+    margin-top: 30px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    color: #444;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .job, .project, .edu {
+    margin-bottom: 20px;
+  }
+  
+  .job h3, .project h3, .edu h3 {
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  
+  .job span, .project span, .edu span {
+    font-size: 0.9em;
+    color: #777;
+  }
+  
+  ul {
+    margin-top: 8px;
+    margin-left: 20px;
+    list-style: disc;
+  }
+  
+  .skills ul {
+    columns: 2;
+  }
+  
+  
+  
