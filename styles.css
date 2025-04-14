@@ -1,0 +1,39 @@
+
+
+
+
+.main{
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-top: 50px;
+    
+}
+
+.one{
+    text-align: center;
+
+}
+
+#name{
+    color: green;
+}
+
+.anchor{
+    color: rgb(180, 120, 7);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.study{
+    display: flex;
+    justify-content: space-between;
+}
