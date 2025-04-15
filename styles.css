@@ -1,0 +1,42 @@
+body {
+    margin: auto;
+    padding: 0;
+    width: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f0f2f5;
+    color: #333;
+  }
+  
+  header {
+    background-color: #1f4e79;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    padding: 1.5rem 2rem;
+    text-align: center;
+  }
+  
+  .skills {
+      columns: 2;
+      width: fit-content;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: auto;
+    background: #ffffff;
+    padding: 30px 40px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    border-radius: 10px;
+  }
+  section, article{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  footer{
+    background-color: #1f4e79;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    padding: 1.5rem 2rem;
+    text-align: center;
+  }
+  
